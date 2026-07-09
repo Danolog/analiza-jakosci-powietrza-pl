@@ -1,0 +1,6 @@
+miasto,wskaznik,count,mean,median,max
+Kraków,pył zawieszony PM10,20,15.4,15.3,23.4
+Kraków,pył zawieszony PM2.5,20,7.9,7.5,13.6
+Warszawa,pył zawieszony PM10,20,6.7,6.4,9.9
+Warszawa,pył zawieszony PM2.5,20,3.6,3.8,4.3
+Wrocław,pył zawieszony PM2.5,20,11.3,10.9,17.6
